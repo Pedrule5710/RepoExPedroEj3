@@ -15,6 +15,7 @@ public class PrinciplaApp {
 		
 		AnlisisEdad prueba = new AnlisisEdad(edades);
 		prueba.comprobar(edades);
+		//System.out.println("esto es contenido añadido a las clases");
 
 	}
 

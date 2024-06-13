@@ -18,7 +18,8 @@ public class AnlisisEdad {
 		}
 		System.out.println("Suma de pares: " + suma + " ,recuento de impares: " + cuenta);
 		
-		
+		//		System.out.println("esto es contenido añadido a las clases");
+
 		return ("Suma de pares: " + suma + " ,recuento de impares: " + cuenta);
 	}
 
